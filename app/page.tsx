@@ -56,7 +56,7 @@ export default function Home() {
           <div className="text-blue-300">drwxr-xr-x 2 epedev epedev 4096 projects/</div>
           <div className="text-blue-300">drwxr-xr-x 2 epedev epedev 4096 homelab/</div>
           <div className="text-blue-300">drwxr-xr-x 2 epedev epedev 4096 blog/</div>
-          <div className="text-blue-300 mb-3">-rw-r--r-- 1 epedev epedev  512 goals.txt   # INSA, Ethio-CERT</div>
+          <div className="text-blue-300 mb-3">-rw-r--r-- 1 epedev epedev  512 goals.txt   # Building offensive tool </div>
           <div className="text-blue-500">$ _</div>
         </TerminalWindow>
 
